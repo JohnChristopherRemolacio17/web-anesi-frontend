@@ -1,0 +1,25 @@
+.logo {
+  line-height: 1;
+}
+@media (min-width: 1200px) {
+  .logo {
+    width: 280px;
+  }
+}
+
+.logo img {
+  max-height: 26px;
+  margin-right: 6px;
+  cursor: pointer;
+}
+.logo span {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0d6427;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.toggle-side-btn {
+  cursor: pointer;
+  width: 30px;
+}
