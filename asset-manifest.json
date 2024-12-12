@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-anesi-frontend/static/css/main.3d0a2e01.css",
-    "main.js": "/web-anesi-frontend/static/js/main.388efee3.js",
+    "main.js": "/web-anesi-frontend/static/js/main.8fcd3aeb.js",
     "static/js/453.9bd6ece5.chunk.js": "/web-anesi-frontend/static/js/453.9bd6ece5.chunk.js",
     "static/media/remixicon.svg?t=1718271040674": "/web-anesi-frontend/static/media/remixicon.f38690bdde29bddbc211.svg",
     "static/media/remixicon.eot?t=1718271040674": "/web-anesi-frontend/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
@@ -13,11 +13,11 @@
     "static/media/Anesi Logo.jpg": "/web-anesi-frontend/static/media/Anesi Logo.ff18ea7450009509005a.jpg",
     "index.html": "/web-anesi-frontend/index.html",
     "main.3d0a2e01.css.map": "/web-anesi-frontend/static/css/main.3d0a2e01.css.map",
-    "main.388efee3.js.map": "/web-anesi-frontend/static/js/main.388efee3.js.map",
+    "main.8fcd3aeb.js.map": "/web-anesi-frontend/static/js/main.8fcd3aeb.js.map",
     "453.9bd6ece5.chunk.js.map": "/web-anesi-frontend/static/js/453.9bd6ece5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d0a2e01.css",
-    "static/js/main.388efee3.js"
+    "static/js/main.8fcd3aeb.js"
   ]
 }
