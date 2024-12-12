@@ -1,5 +1,6 @@
 import React from "react";
 import "./sideBar.css";
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   return (
@@ -7,24 +8,20 @@ const Sidebar = () => {
       <ul className="sidebar-nav" id="sidebar-nav">
         <li className="nav-item">
           <a href="/" className="nav-link">
-            <i className="bi bi-grid"></i>
-            <span>Dashboard</span>
-          </a>
-        </li>
-
-        <li className="nav-item">
-          <a href="/" className="nav-link">
-            <i className="bi bi-box"></i>
-            <span>Inventory</span>
-          </a>
-        </li>
-
-        <li className="nav-item">
-          <a href="/" className="nav-link">
             <i className="bi bi-file-earmark-text"></i>
             <span>Reports</span>
           </a>
         </li>
+
+     
+        <li className="nav-item">
+          <Link to="/inventory" className="nav-link">
+            <i className="bi bi-box"></i>
+            <span>Inventory</span>
+          </Link>
+        </li>
+
+       
 
         <div className="footer-div">
           <span>
